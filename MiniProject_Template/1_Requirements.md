@@ -20,6 +20,7 @@ range of modulation index.
 5) Improved power factors and reduce system loss.
 
 ## Low level requirements
-1) The "Hybrid Newton Raphson Method"  technique effectively eliminates the lower order harmonics from the output voltage of the converter.
+1) Use "Hybrid Newton Raphson Method" which effectively eliminates the lower order harmonics from the output voltage of the converter.
 
-2) 
+2) The conditions for switching angle is α should lie between following condition:
+0≤φ1≤φ2≤φ3≤.....φ5≤π/2
