@@ -1,3 +1,3 @@
-# M1_Harmonic-mitigation-of-cascaded-multilevel-inverter_UTI
+# M1_Harmonic-mitigation-of-cascaded-multilevel-inverters_UTI
 
 
