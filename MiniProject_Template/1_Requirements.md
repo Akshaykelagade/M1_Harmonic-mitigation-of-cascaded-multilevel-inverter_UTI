@@ -24,3 +24,17 @@ range of modulation index.
 
 2) The conditions for switching angle is α should lie between following condition:
 0≤φ1≤φ2≤φ3≤.....φ5≤π/2
+
+# Objectives.
+1) We propose a DC-AC conversion system based on a single-phase inverter.
+
+2) We propose a converter architecture id based on a full bridge topology with additional power
+switches and diodes connected to the midpoint of dc link.
+
+3) The reference signal is produced as a multilevel shaped output voltage wave.
+
+4) The results demonstrate that the system can achieve lower total harmonic distortion on the output
+voltage and load current.
+
+5) We propose the development of a novel modified H-bridge single phase multilevel inverter that
+has two diodes switches and a novel pulse width modulated technique. 
