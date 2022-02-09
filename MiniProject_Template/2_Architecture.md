@@ -1,10 +1,9 @@
 # Structural design
-## Three level npc inverter matlab model
 
-![three](https://user-images.githubusercontent.com/98802184/153203655-6d7e1492-221a-4788-910e-fe3baac26afb.PNG)
+## Output phase voltage waveform of 11-level multilevel inverter
+![waveform](https://user-images.githubusercontent.com/98802184/153208147-6f61fe8a-3b26-47f0-a118-bb9ca9483642.PNG)
 
-## Seven level npc inverter matlab model
-![seven](https://user-images.githubusercontent.com/98802184/153203661-d67f06a1-1823-441c-a7cd-4ab76a5794b4.PNG)
+
 
 
 # Behavioral Design
