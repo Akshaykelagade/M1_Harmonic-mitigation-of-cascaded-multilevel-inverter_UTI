@@ -22,7 +22,7 @@ range of modulation index.
 ## Low level requirements
 1) Use "Hybrid Newton Raphson Method" which effectively eliminates the lower order harmonics from the output voltage of the converter.
 
-2) The conditions for switching angle is α should lie between following condition:
+2) The conditions for switching angle is φ should lie between following condition:
 0≤φ1≤φ2≤φ3≤.....φ5≤π/2
 
 # Objectives.
@@ -38,3 +38,35 @@ voltage and load current.
 
 5) We propose the development of a novel modified H-bridge single phase multilevel inverter that
 has two diodes switches and a novel pulse width modulated technique. 
+
+## SWOT ANALYSIS
+
+S-Strength
+  - It can remove 3rd,5th,and 7th harmonics without change in fundamental output voltage which is the advantage of selective harmonic elimination technique.
+  - As the level of the inverter increases the value of the THD decreases.
+  
+ W-Weakness
+ - Two-level and three-level voltage source inverters are not suitable for high voltage and high-power applications in the range of KVA because during each turning on and 
+turning off of the power semiconductor switches, these switches are subjected to high voltage stress and introduces voltage and current harmonics in the output 
+of the converter which directly affects the performance parameter of the converter. 
+ 
+ O-Opportunity
+ - Lower THD implies almost accurate sine wave, lower peak,less core losses,higher power factor,and higher efficiency which directly helping the industry to grow faster without any losses.
+
+T-Threats
+- Nonlinear loads are the primary causes of harmonics in an electrical system.
+- The short pulses cause distorted current waveforms,which in turn cause harmonic currents to flow back into other parts of the power system.
+
+## 5W’s and 1H  
+
+Who:  
+     Harmonic reduction for grid it is benifited.
+
+Why:
+     It will increase the electrical system efficiency.
+
+What:  
+      The purpose of this is to maintain the THD level in inverter.
+
+Where: 
+      It can be used in the presence of optimum value of switching angles with variation in input dc bus voltage over the entire range of modulation index.
