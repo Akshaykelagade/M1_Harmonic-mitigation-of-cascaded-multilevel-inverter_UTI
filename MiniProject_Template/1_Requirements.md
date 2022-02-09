@@ -57,7 +57,7 @@ T-Threats
 - Nonlinear loads are the primary causes of harmonics in an electrical system.
 - The short pulses cause distorted current waveforms,which in turn cause harmonic currents to flow back into other parts of the power system.
 
-## 5W’s and 1H  
+## 4W’s and 1H  
 
 Who:  
        Harmonic reduction for grid it is benifited.
