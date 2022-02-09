@@ -1,6 +1,11 @@
 # Structural design
 ## Three level npc inverter matlab model
 
+![three](https://user-images.githubusercontent.com/98802184/153203655-6d7e1492-221a-4788-910e-fe3baac26afb.PNG)
+
+## Seven level npc inverter matlab model
+![seven](https://user-images.githubusercontent.com/98802184/153203661-d67f06a1-1823-441c-a7cd-4ab76a5794b4.PNG)
+
 
 # Behavioral Design
 
