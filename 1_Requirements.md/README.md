@@ -7,7 +7,7 @@ increases, as a result of this voltage THD also increases.
 of the converter are presented. The proposed technique effectively calculates the optimum value of switching angles with variation in input dc bus voltage over the entire 
 range of modulation index.  
 
-# Reqiurements
+# Requirements
 ## High level requirements
 1) Reduce Harmonic Distortion.
 
