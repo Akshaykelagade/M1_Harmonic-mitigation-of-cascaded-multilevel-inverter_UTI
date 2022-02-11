@@ -60,7 +60,7 @@ T-Threats
 ## 4W’s and 1H  
 
 Who:  
-       Harmonic reduction for grid it is benifited.
+       Harmonic reduction for grid it is benifitted.
 
 Why:
        It will increase the electrical system efficiency.
