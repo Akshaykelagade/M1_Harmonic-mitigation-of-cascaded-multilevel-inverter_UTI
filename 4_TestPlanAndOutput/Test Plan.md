@@ -1,6 +1,11 @@
 # TEST PLAN:
 
 ## Table no:High Level Requirements
+| Test Id         |  Description  |    Exp I/P  | Exp O/P | Actual Output | Type of test |
+| :--:            | :--:          |   :--:      | :--:    | :--:          | :--:         |
+| HLR1        | Reduce harmonic distortion | Implemented |
+| HLR2        | Protects motor from long lead effects | Implemented |
+| HLR3        | Improves electrical system efficiency | Implemented |
 ![high level](https://user-images.githubusercontent.com/98802184/153558786-bc787abb-3105-48e3-8c68-31319e2c67ad.PNG)
 
 
