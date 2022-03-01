@@ -71,5 +71,5 @@ Where:
  - It can be used in the presence of optimum value of switching angles with variation in input dc bus voltage over the entire range of modulation index.
 
 How :  
-       - The industry will be get benefited by increase in power factor, reduce stress, and elimination of harmonics.
+ - The industry will be get benefited by increase in power factor, reduce stress, and elimination of harmonics.
 
