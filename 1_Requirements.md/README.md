@@ -59,17 +59,17 @@ T-Threats
 ## 4W’s and 1H  
 
 Who:  
-       Harmonic reduction for grid it is benefited.
+      - Harmonic reduction for grid it is benefited.
 
 Why:
-       It will increase the electrical system efficiency.
+      - It will increase the electrical system efficiency.
 
 What:  
-       The purpose of this is to maintain the THD level in inverter.
+      - The purpose of this is to maintain the THD level in inverter.
 
 Where: 
-        It can be used in the presence of optimum value of switching angles with variation in input dc bus voltage over the entire range of modulation index.
+       - It can be used in the presence of optimum value of switching angles with variation in input dc bus voltage over the entire range of modulation index.
 
 How :  
-         The industry will be get benefited by increase in power factor, reduce stress, and elimination of harmonics.
+       - The industry will be get benefited by increase in power factor, reduce stress, and elimination of harmonics.
 
