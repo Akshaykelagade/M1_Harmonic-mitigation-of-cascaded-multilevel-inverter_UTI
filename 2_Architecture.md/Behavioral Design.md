@@ -19,5 +19,5 @@ which helps in add, subtract, multiply, and divide binary numbers.
 A microcontroller is embedded inside of a system to control a singular function in a device. It does this by interpreting data it receives from its I/O peripherals using its central processor.
 
 
-## Flow Chart
+# Flow Chart
 ![flow chart](https://user-images.githubusercontent.com/98802184/152681969-71c4fdd6-d8a9-4860-8bf6-78f82ddf2822.PNG)
