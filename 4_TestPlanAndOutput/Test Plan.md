@@ -4,6 +4,8 @@
 | Test Id         |  Description  |    Exp I/P  | Exp O/P | Actual Output | Type of test |
 | :--:            | :--:          |   :--:      | :--:    | :--:          | :--:         |
 | HLR4      | Check if the THD is less than 5% or not | 1) V5=21.24  2) V7=10.448   3) V9=2.94 4) V11= 0.787 | 4% | 4.968 | Boundary based |
+
+Note: All other high level requirements are implemented automatiacally when HLR4 is implimented
                                                       
 
 
