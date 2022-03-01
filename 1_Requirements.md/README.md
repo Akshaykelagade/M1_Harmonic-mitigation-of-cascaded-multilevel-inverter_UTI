@@ -9,21 +9,20 @@ range of modulation index.
 
 # Requirements
 ## High level requirements
-1) Reduce Harmonic Distortion.
+| Id          |  Description  |    status  |
+| :--:        | :--:          |   :--:     |
+| HLR1        | Reduce harmonic distortion | Implemented |
+| HLR2        | Protects motor from long lead effects | Implemented |
+| HLR3        | Improves electrical system efficiency | Implemented |
+| HLR4        | Reduction of harmonics to 5% or less  | Implemented |
+| HLR5        | Improved power factors and reduce system loss | Implemented |
 
-2) Protect motors from long lead effects.
-
-3) Improves electrical system efficiency.
-
-4) Reduction of harmonics to 5% or less.
-
-5) Improved power factors and reduce system loss.
 
 ## Low level requirements
-1) Use "Hybrid Newton Raphson Method" which effectively eliminates the lower order harmonics from the output voltage of the converter.
-
-2) The conditions for switching angle is φ should lie between following condition:
-0≤φ1≤φ2≤φ3≤.....φ5≤π/2
+| Id          |  Description  |    status  |
+| :--:        | :--:          |   :--:     |
+| LLR1        | Use "Hybrid Newton Raphson Method" which effectively eliminates the lower order harmonics from the output voltage of the converter| Implemented |
+|LLR2         | The conditions for switching angle is φ should lie between following condition:0≤φ1≤φ2≤φ3≤.....φ5≤π/2 | Implemented |
 
 # Objectives.
 1) We propose a DC-AC conversion system based on a single-phase inverter.
