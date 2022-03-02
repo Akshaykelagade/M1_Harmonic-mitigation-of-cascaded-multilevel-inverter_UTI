@@ -1,5 +1,5 @@
 
-# Behavioral Design
+# Structural Design
 
 ## Block diagram
 ![block diagram](https://user-images.githubusercontent.com/98802184/153200156-6ef848b2-ec3c-4c51-8783-780b5f22610c.PNG)
