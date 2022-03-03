@@ -40,36 +40,10 @@ has two diodes switches and a novel pulse width modulated technique.
 
 ## SWOT ANALYSIS
 
-S-Strength
-  - It can remove 3rd,5th,and 7th harmonics without change in fundamental output voltage which is the advantage of selective harmonic elimination technique.
-  - As the level of the inverter increases the value of the THD decreases.
-  
- W-Weakness
- - Two-level and three-level voltage source inverters are not suitable for high voltage and high-power applications in the range of KVA because during each turning on and 
-turning off of the power semiconductor switches, these switches are subjected to high voltage stress and introduces voltage and current harmonics in the output 
-of the converter which directly affects the performance parameter of the converter. 
- 
- O-Opportunity
- - Lower THD implies almost accurate sine wave, lower peak,less core losses,higher power factor,and higher efficiency which directly helping the industry to grow faster without any losses.
+![swot 2](https://user-images.githubusercontent.com/98802184/156630444-e7c2edf3-a57e-443b-b9f2-da7884e9a12b.PNG)
 
-T-Threats
-- Nonlinear loads are the primary causes of harmonics in an electrical system.
-- The short pulses cause distorted current waveforms,which in turn cause harmonic currents to flow back into other parts of the power system.
 
 ## 4W’s and 1H  
+![swot2](https://user-images.githubusercontent.com/98802184/156630403-e4eb373a-2221-40d1-948d-b84762b6f89c.PNG)
 
-Who:  
-- Harmonic reduction for grid it is benefited.
-
-Why:
-- It will increase the electrical system efficiency.
-
-What:  
- - The purpose of this is to maintain the THD level in inverter.
-
-Where: 
- - It can be used in the presence of optimum value of switching angles with variation in input dc bus voltage over the entire range of modulation index.
-
-How :  
- - The industry will be get benefited by increase in power factor, reduce stress, and elimination of harmonics.
 
